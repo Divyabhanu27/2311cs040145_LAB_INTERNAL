@@ -1,4 +1,4 @@
-# Exp 2 + Exp 7 — Setup & Execution
+# EXPERIMENT 1,2,7 Setup & Execution
 
 ## 0. Setup (do this once)
 
